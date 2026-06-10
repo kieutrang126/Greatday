@@ -1,18 +1,17 @@
-# 哈囉！我是 [黃漢誠] 👋
+👋 我是黃漢誠
+🎓 台灣留學生｜中華大學觀光學院
+🗺️ 熱愛觀光與旅遊
+📊 喜歡資料視覺化與數據分析
+🎯 朝觀光旅遊專業人才邁進中 🌏✈️
+<img width="800" height="900" alt="4" src="https://github.com/user-attachments/assets/6736f2f9-f31f-42e0-88bb-2b9d2e6dee5f" />
 
-### 🚀 關於我- 
+<img width="400" height="500" alt="1" src="https://github.com/user-attachments/assets/7693a0d9-8328-4700-8ce5-303416fd1284" />
 
-- 🏫 任職 **中華大學觀光學院**
-- 🗺️ 擅長 **[觀光/旅遊]**
-- 👨‍🍳 目標 **[觀光好手]**
-- 👨‍🍳 作品 **資料視覺化**
+<img width="400" height="500" alt="2" src="https://github.com/user-attachments/assets/9ff6128c-5247-402c-bc46-f754ad4a2b9a" />
 
-<img width="440" height="490" alt="圖片5" src="https://github.com/user-attachments/assets/e46fab21-c917-4f54-9881-a74247a762f0" />
-<img width="360" height="490" alt="圖片3" src="https://github.com/user-attachments/assets/90f05a2b-a3f2-4e20-95b9-f82fd74bdc73" />
-<img width="400" height="300" alt="圖片4" src="https://github.com/user-attachments/assets/6c0572a2-dd10-4030-87fe-95742b9aff29" />
-<img width="500" height="300" alt="圖片2" src="https://github.com/user-attachments/assets/35c57691-a356-44e6-8fb9-24eba6d8529f" />
+<img width="400" height="500" alt="3" src="https://github.com/user-attachments/assets/95571534-6c5b-46ed-b360-11856d6d02a1" />
 
 
 ### 📬 如何聯絡我
-- ✉️ **Email:** [huangkinmen@gmail.com]
-- 📸 **IG:** [@huangkinmenX]
+- ✉️ **Email:** [huyenchann12926@gmail.com]
+- 📸 **IG:** [@kieutrang26]
